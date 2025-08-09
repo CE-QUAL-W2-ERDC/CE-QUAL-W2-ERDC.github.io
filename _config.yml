@@ -1,0 +1,29 @@
+theme: jekyll-theme-minimal
+title: CE-QUAL-W2
+description: Two-dimensional, laterally averaged, hydrodynamic and water quality model
+baseurl: ""
+url: "https://ce-qual-w2-erdc.github.io"
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Documentation
+    url: /documentation/
+  - title: Downloads
+    url: /downloads/
+  - title: Examples
+    url: /examples/
+  - title: Publications
+    url: /publications/
+  - title: Support
+    url: /support/
+
+# Build settings
+markdown: kramdown
+
+# Exclude files from build
+exclude:
+  - CLAUDE.md
+  - Gemfile
+  - Gemfile.lock
