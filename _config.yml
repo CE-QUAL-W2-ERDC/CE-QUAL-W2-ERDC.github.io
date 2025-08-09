@@ -2,9 +2,9 @@
 # theme: jekyll-theme-midnight
 # theme: jekyll-theme-primer
 # theme: jekyll-theme-slate
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-hacker
 # theme: jekyll-theme-architect
-# theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 title: CE-QUAL-W2
 description: Two-dimensional, laterally averaged, hydrodynamic and water quality model
 baseurl: ""
