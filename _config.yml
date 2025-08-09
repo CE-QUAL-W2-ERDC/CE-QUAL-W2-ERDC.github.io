@@ -1,3 +1,4 @@
+# Standard themes
 theme: jekyll-theme-minimal
 # theme: jekyll-theme-midnight
 # theme: jekyll-theme-primer
@@ -5,6 +6,11 @@ theme: jekyll-theme-minimal
 # theme: jekyll-theme-hacker
 # theme: jekyll-theme-architect
 # theme: jekyll-theme-cayman
+
+# Remote themes
+remote-theme: https://github.com/academicpages/academicpages.github.io
+
+
 title: CE-QUAL-W2
 description: Two-dimensional, laterally averaged, hydrodynamic and water quality model
 baseurl: ""
