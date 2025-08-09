@@ -32,7 +32,7 @@ CE‐QUAL‐W2[^1] is a two‐dimensional (2D), longitudinal/vertical, hydrodyna
 - Updated utilities and preprocessors
 - Comprehensive documentation
 
-### Applications
+### Typical Applications
 
 CE-QUAL-W2 has been applied to:
 - **Reservoirs**: Stratification, selective withdrawal, dam operations
@@ -45,7 +45,7 @@ CE-QUAL-W2 has been applied to:
 |--|
 | Longitudinal view of temperature output for a riverine section, reservoir, and estuary, from a CE‐QUAL‐W2 model application. |
 
-## Applications
+### Past Studies
 
 * The reservoir WQ model of choice throughout the U.S. and many other countries
 * The 2-D, longitudinal/vertical hydrodynamic and water quality model of choice for the following agencies:
@@ -129,7 +129,7 @@ The latest version (4.5) includes many new features and upgrades and is not file
 17. Updates to particle settling and P adsorption onto inorganic SS. A bug was fixed where dissolved oxygen controlled P adsorption to particles rather than just P adsorption to Fe.
 18. All external control files are included in an Excel master sheet for ease of writing out as CSV files.
 
-## CE-QUAL-W2 Model Limitations (Version 4.5)
+### CE-QUAL-W2 Model Limitations (Version 4.5)
 
 CE-QUAL-W2 Version 4.5 functions under the following general assumptions: Flows are assumed to be well mixed in lateral direction (can be used in a Quasi-3-D mode via additional model branches), and hydrostasis is assumed for the vertical momentum equation.
 
@@ -148,7 +148,7 @@ CE-QUAL-W2 Version 4.5 functions under the following general assumptions: Flows 
   </div>
 </div>
 
-## Point of Contact
+### Point of Contact
 
 * Dr. Todd Steissberg, Environmental Laboratory, U.S. Army Engineer Research and Development Center (ERDC-EL)
 
