@@ -45,8 +45,13 @@ Download the appropriate executable for your operating system:
 
 | Example | Description | Files |
 |---------|-------------|-------|
-| **DeGray Reservoir** | Stratification and water quality | [degray_example.zip](#) |
-| **Columbia River** | Temperature modeling | [columbia_example.zip](#) |
+| Bonneville Dam | TDG Modeling | [bonneville_dam.zip](#) |
+| Columbia Slough Estuary | Temperature modeling | [columbia_slough_estuary.zip](#) |
+| DeGray Reservoir | Stratification and water quality | [degray_reservoir.zip](#) |
+| Detroit Reservoir | Stratification and water quality | [detroit_reservoir.zip](#) |
+| Long Lake | Stratification and water quality | [long_lake_example.zip](#) |
+| Particle Tracking | Particle Tracking | [particle_tracking.zip](#) |
+| Spokane River | Stratification and water quality | [spokane_river.zip](#) |
 
 ---
 

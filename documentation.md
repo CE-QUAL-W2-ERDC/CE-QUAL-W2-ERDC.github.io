@@ -106,8 +106,6 @@ The CE-QUAL-W2 User Manual is organized into five comprehensive parts covering a
 
 ### Technical Support
 - [Frequently Asked Questions](/support/#faq)
-- [User Forum](/support/#forum)
-- [Contact Support Team](/support/#contact)
 
 ### Related Publications
 - [Peer-reviewed Papers](/publications/)
